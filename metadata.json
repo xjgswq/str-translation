@@ -1,0 +1,5 @@
+{
+  "name": "SubTrans Pro",
+  "description": "Professional SRT subtitle translator powered by Gemini. Converts English subtitles to high-quality Chinese or bilingual formats while preserving perfect timestamps.",
+  "requestFramePermissions": []
+}
