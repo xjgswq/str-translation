@@ -16,7 +16,7 @@ Powered by Google Gemini AI | Built with TypeScript & React
 
 ## 📖 项目介绍
 
-STR Translation 是一个基于 Google Gemini AI 的智能翻译工具，专门为字符串文件翻译而设计。它能够确保翻译的**信达雅**质量，帮助开发者快速、准确地翻译应用程序中的字符串资源。
+STR Translation 是一个基于 Google Gemini AI 的智能翻译工具，专门为str字幕文件翻译而设计。它能够确保翻译的**信达雅**质量，帮助开发者快速、准确地翻译字幕资源。
 
 ### ✨ 核心优势
 
@@ -39,12 +39,6 @@ STR Translation 是一个基于 Google Gemini AI 的智能翻译工具，专门�
 - ✅ 支持上下文感知翻译
 - ✅ 翻译历史记录
 
-### 支持的文件格式
-- `.strings` (iOS)
-- `.xml` (Android)
-- `.json` (多平台)
-- `.properties` (Java/Android)
-- `.yml`/`.yaml` (配置文件)
 
 ---
 
